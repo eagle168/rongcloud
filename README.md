@@ -1,2 +1,0 @@
-# rongcloud
-rongcloud ruby sdk
